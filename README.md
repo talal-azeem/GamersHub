@@ -33,14 +33,6 @@ This project focuses on layout, visual polish and a pleasant shopping experience
 
 ---
 
-## 📦 Getting started
-1. Clone the repo:
-   git clone https://github.com/WysemanTalal/GamersHub.git
-2. Open `index.html` in your browser:
-   - Double-click the file or run a simple static server (e.g., `npx http-server`).
-3. Explore the pages and responsive breakpoints.
-
----
 
 ## 🤝 Contributing
 This is a learning / design project — contributions that improve responsiveness, accessibility, or styling are welcome. Open an issue or a PR with a short description of the change.
