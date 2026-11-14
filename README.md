@@ -40,7 +40,7 @@ This is a learning / design project — contributions that improve responsivenes
 ---
 
 ## 📬 Contact
-Created by WysemanTalal — feel free to open issues or reach out via GitHub.
+Created by myself — feel free to open issues or reach out via GitHub.
 
 ---
 
